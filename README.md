@@ -24,3 +24,6 @@ Not gonna do a list this time, I haven't read much (although I might update this
 Pulp Fiction and Inglorious Basterds are good, but have you ever heard of ***Breaking Bad*** >:3
 
 also, Death Note is kinda bad but I love it. Speaking of anime, FMA:B is good and Horimiya is my comfort show.
+
+## Coding Experience
+Can kinda do Python and C# (kinda)
