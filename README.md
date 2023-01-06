@@ -4,7 +4,7 @@
 Here's just a list of my favourite games in no particular order
 - Titanfall 2
 - TLoU
-- Dark Souls 3
+- Mass Effect
 - Bloodborne
 - Elden Ring (for now since I'm not done with it yet)
 - God of War (~~Don't kill me for this but I haven't had the chance to play the original series yet so this is the remake~~)
@@ -18,12 +18,12 @@ Here's just a list of my favourite games in no particular order
 Honestly, I play way too many games to keep count and I play more indie games than this, I just don't have the time to list them all :p 
 
 ### Reading
-Not gonna do a list this time, I haven't read much (although I might update this gradually as I read more who knows), but I'm currently reading Caraval by Stephanie Garber and my favourite book is Foundation by Isaac Asimov (for now)
+Not gonna do a list this time, I haven't read much (although I might update this gradually as I read more who knows), but I'm currently reading LoTR and my favourite book is Dune.
 
 ### Movies and TV shows
 Pulp Fiction and Inglorious Basterds are good, but have you ever heard of ***Breaking Bad*** >:3
 
-also, Death Note is kinda bad but I love it. Speaking of anime, FMA:B is good and Horimiya is my comfort show.
+also, Death Note is kinda bad but I love it. Speaking of anime, FMA:B is good and Horimiya is my comfort show. I finished Banana Fish and I am sad.
 
 ## Coding Experience
-Can kinda do Python and C# (kinda)
+Can do Python and C# (kinda), also some Lua.
